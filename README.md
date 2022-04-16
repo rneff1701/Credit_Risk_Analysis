@@ -36,3 +36,4 @@ EasyEnsemble
 
 
 ## Summary
+EasyEnsemble was the most accurate model.
